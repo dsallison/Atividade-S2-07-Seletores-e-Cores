@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+    max-width: 900px;
+}
+span {
+    color:#3662ff;
+}
+
+.titulo_principal{
+    text-align: center;
+}
+.sobre_nos {
+    background-color:#3662ff;
+    color:white
+}
+ol{
+    text-decoration: underline;
+}
+.footer_black{
+    background-color:black;
+    color: white;
+    text-align:center
+}
